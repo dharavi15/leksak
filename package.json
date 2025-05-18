@@ -1,7 +1,7 @@
 {
   "name": "leksak",
   "private": true,
-  "homepage": "https://dharavi15.github.io/leksak"
+  "homepage": "https://dharavi15.github.io/leksak",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
